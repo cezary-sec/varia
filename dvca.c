@@ -1,3 +1,5 @@
+#include <string.h>
+
 int main(int argc, char* argv[])
 {
     char    file_name[65];
